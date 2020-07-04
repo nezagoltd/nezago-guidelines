@@ -1,9 +1,9 @@
 # Commit message template
 
-A good commit message has three parts:
+### A good commit message has three parts:
     1. Message title
-    1. Message body
-    1. Message footer
+    2. Message body
+    3. Message footer
 
 The message title starts by type of the task {feat, bug, chore} followed by colon and then a brief description of what changed in that commit, no more than 50 characters, the description must start with a capital letter, and use imperative model. No past, no future, just present tense as imperative model sounds.
 
@@ -14,10 +14,10 @@ The commit message footer, must be inside square bracket, and starts with {Finis
 Note: The head is separated from the body with an empty space, and the body separated from the footer with empty space
 
 ## Example of the commit message
-feat: User signup
+    feat: User signup
 
-- Write signup failing test
-- Add signup controller
-- Add signup endpoint
+    - Write signup failing test
+    - Add signup controller
+    - Add signup endpoint
 
-[Finishes#1111111]
+    [Finishes#1111111]
