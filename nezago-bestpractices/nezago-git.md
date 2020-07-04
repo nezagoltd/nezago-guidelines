@@ -100,6 +100,10 @@ feat: User signup
 
 1. In a team work project, a pull request will be ready for TTL review after getting two approvals from peer review
 
+1. In a team work project, if your pull request is ready for peers review, you should send them review request by selecting them in your pull request reviewer section, remember that no team member is allowed to merge a pull request, that is a job of a TTL.
+
+1. As a Technical Team Lead (TTL) of a team a certain team, you should make sure that your team members have tasks to work on, help them whenever they meet a blocker (technical or personal), maintain team harmony such as team convetions, folder structure, ..., review all `ready for TTL review` pull requests and approve and merge them if they deserve it.
+
 ### 2. Pull request badges
 1. `work in progress` => in pink background color and white text
 1. `ready for peer review` => in right blue background color and white text
