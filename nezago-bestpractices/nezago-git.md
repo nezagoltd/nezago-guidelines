@@ -98,6 +98,8 @@ feat: User signup
 
 1. If you are working on a pull request as a team, you should have a Technical Team Lead (TTL), which you will be provided by nezago, no team member is allowed to merge a PR, that is a task of TTL, for rebasing simplicity, we encourage teams to keep their PRs have one commit. You can use some techniques to achieve that, such as `git ammend --no-edit` or `git squash` but that is optional
 
+1. In a team work project, a pull request will be ready for TTL review after getting two approvals from peer review
+
 ### 2. Pull request badges
 1. `work in progress` => in pink background color and white text
 1. `ready for peer review` => in right blue background color and white text
@@ -114,4 +116,3 @@ feat: User signup
  * Going to sleep
 
 2. We strongly encourage you to keep practicing writing a good commit message which follows [this template](https://github.com/nezago/nezago-guidelines/wiki/Commit-message-template-used-at-nezago)
-
