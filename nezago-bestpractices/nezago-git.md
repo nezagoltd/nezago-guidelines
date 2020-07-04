@@ -120,3 +120,8 @@ feat: User signup
  * Going to sleep
 
 2. We strongly encourage you to keep practicing writing a good commit message which follows [this template](https://github.com/nezago/nezago-guidelines/wiki/Commit-message-template-used-at-nezago)
+
+### 4. Project
+1. A valid project at nezago, should have a professional readme file which is following our readme file template, get the template from [here](https://raw.githubusercontent.com/nezago/nezago-guidelines/development/nezago-templates/nezago-readme-file-template.md)
+
+1. At least a link to documentation should be available for any project
