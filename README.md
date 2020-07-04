@@ -5,3 +5,4 @@ Please open the templates folder to see all nezago templates or click on the bel
 
 1. [nezago-readme-template](https://github.com/nezago/nezago-guidelines/wiki/Readme-file-template)
 1. [nezago-pull-request-description-template](https://github.com/nezago/nezago-guidelines/wiki/Pull-Request-description-template)
+1. [nezago-commit-message-template](https://github.com/nezago/nezago-guidelines/wiki/Commit-message-template-used-at-nezago)
