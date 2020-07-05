@@ -21,12 +21,17 @@ The following is a list of resources to follow, for anyone who is starting javas
  #### Course description
  Since computer programming is an act of instructing a computer, telling what it does and how it does it, you need to know first of all how it works, what is its internal architect, how does it think? [Here this course](https://openclassrooms.com/en/courses/5261196-think-like-a-computer-the-logic-of-programming) comes in as a solution. I strongly recommend anyone who wants to start the career of any programming language, to start by this course.
 
- It's a course from [Openclassrooms](https://openclassrooms.com/), it's free of price.
+ It's a course from [Openclassrooms](https://openclassrooms.com/), it's free of price. It only requires you to be commited for 15 hours to be able to complete it.
 
 2. [Learn Programming With JavaScript](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
 
 ### Course description
 After completing the previous lesson, you should go with this lesson, which gives you all necessary basics of programming with javascript. It is from [openclassrooms](https://openclassrooms.com/) as well, and it is for free from any charges.
+
+3. [Write JavaScript for the Web](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web)
+
+### Course description
+By completing this course, you will be able to write javascript for any website, this means that course will make you a frontend web developer, as I said before, javascript is the native language of the web technologies. This course is recommended for front-end developers, and full-stack developers.
 
 2. For readers
 
@@ -45,3 +50,6 @@ iv. [JavaScript in the Real World](https://www.theodinproject.com/courses/javasc
 v. [Asynchronous JavaScript and APIs](https://www.theodinproject.com/courses/javascript/lessons/json) => Read all assignments links before clicking *next lesson*
 
 vi. [Testing JavaScript](https://www.theodinproject.com/courses/javascript/lessons/testing-basics)
+
+
+
