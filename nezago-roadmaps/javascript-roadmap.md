@@ -60,4 +60,4 @@ v. [Asynchronous JavaScript and APIs](https://www.theodinproject.com/courses/jav
 vi. [Testing JavaScript](https://www.theodinproject.com/courses/javascript/lessons/testing-basics)
 
 ## Conclusion
-Send an email [here](neza.nezago@gmail.com) to request your final project to make you apply all knowledge you have learned so far, and make you stand out for javascript for UI.
+Send an email [here](mailto:neza.nezago@gmail.com) to request your final project to make you apply all knowledge you have learned so far, and make you stand out for javascript for UI.
