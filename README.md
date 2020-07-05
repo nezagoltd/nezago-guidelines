@@ -7,3 +7,4 @@ Please open the templates folder to see all nezago templates or click on the bel
 1. [nezago-pull-request-description-template](https://github.com/nezago/nezago-guidelines/wiki/Pull-Request-description-template)
 1. [nezago-commit-message-template](https://github.com/nezago/nezago-guidelines/wiki/Commit-message-template-used-at-nezago)
 1. [nezago-convetions-and-best-practices](https://github.com/nezago/nezago-guidelines/wiki/Convetions-and-bestpractices-used-at-nezago)
+1. [nezago-convetions-and-best-practices](https://github.com/nezago/nezago-guidelines/wiki/Convetions-and-bestpractices-used-at-nezago)

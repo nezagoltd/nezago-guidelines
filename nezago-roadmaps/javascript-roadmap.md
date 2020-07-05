@@ -1,5 +1,3 @@
-# Javascript roadmap
-
 ## Introduction
 Javascript is a broad language and to understand it completely you need a proper understanding of a few concepts and best practices, in this article, I will walk you through the path you need to follow in order to become a great javascript software developer who can do great things with it. I will assume that you have working knowledge with HTML5 && CSS3.
 
@@ -9,6 +7,16 @@ The content of this article is my personal opinion, but I strongly believe that 
 
 ## Why Javascript?
 As I mentioned it above, javascript is the only one who is in control of the websites and web applications user interfaces, it doesn't do only that, but it does other great things such as mobile applications, server-side, and desktop applications, you can even do virtual reality with javascript, you can do artificial intelligence with javascript, briefly javascript is everywhere.
+
+## Frameworks
+In my point of view, I discourage anyone who rushes to javascript frameworks before mastering the core concepts of javascript. Because out there, there is a sea of javascript frameworks which do things which are quite similar, so I recommend anyone who wants to go with javascript, to first of catch the very basics of javascript, and then they will know what they need after working on some projects which are at every end of the course.
+
+## jQuery
+jQuery (JavaScript library) was very popular in the past but has fallen out of the limelight in recent years, it was there to help you writing you AJAX and DOM manipulation easily, which was difficult to do it with vanilla javascript, but nowadays is no longer the case. With vanilla javascript, from ES6 and later versions, now it is very simple to do anything you need in plain (vanilla) javascript. Hence, out there, there are other giants framework which will make your life very easy like sipping water in javascript programming, that's why in my opinion, I don't see jQuery in a great choices to go along within javascript.
+
+But if you still want to learn it, [read its official website](https://jquery.com/)
+
+Just grab the basics, and then hooray!!!
 
 ## Path to javascript
 The following is a list of resources to follow, for anyone who is starting javascript from scratch. It doesn't require any programming background.
