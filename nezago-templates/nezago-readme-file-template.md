@@ -50,7 +50,7 @@
 > If you have used some resources from someone, or instution, or if you got motivations from somewhere, you should show them the acknowlodgement
 
 ## Author (s)
-> Write your name here and list any other one whou helped you during this project
+> Write your name here and list any other one who helped you during this project
 
 	* [GitHub username](github-link)
 
