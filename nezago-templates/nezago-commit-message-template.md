@@ -11,7 +11,7 @@ You will describe all of changes you made in that commit in the body outlined as
 
 The commit message footer, must be inside square bracket, and starts with {Finishes, Delivers}, followed by hash (#) followed by pivotal tracker ID
 
-Note: The head is separated from the body with an empty space, and the body separated from the footer with empty space
+Note: The head is separated by the body with an empty space, and the body separated by the footer with empty space
 
 ## Example of the commit message
     feat: User signup
