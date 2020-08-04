@@ -1,6 +1,6 @@
 # Nezago git bestpractices
 
-As Git is the most popular version control system world wide, we chose it to be our first version control system to use, but we are open to use any other one depending on the requirements of a specific project or client.
+As Git is the most popular version control system worldwide, we chose it to be our first version control system to use, but we are open to use any other one depending on the requirements of a specific project or client.
 
 ## Git namings
 
