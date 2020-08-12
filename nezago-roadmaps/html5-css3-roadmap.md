@@ -12,7 +12,11 @@ We believe in giving you clear roadmaps, because whenever you need to learn new 
 #### Course overview
 This is where it all begins! A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do – the foundations you'll need for later courses.
 
-__Note:__ Make sure that all projects listed in this course you work on them and submit them on **The odin project contribution page**. Once you are done with this course, and all projects are done, you should go to the next lesson.
+__Note:__ 
+
+i. If you are going to follow this lesson, from **nezago** training program, you should make sure that any project you will do during this project, get approved by a *Neza Software Support Engineer* (**NSSE**) before continuing.
+
+ii. Make sure that all projects listed in this course you work on them and submit them on **The odin project contribution page**. Once you are done with this course, and all projects are done, you should go to the next lesson.
 
 2. You can go with [The Odin Project](https://www.theodinproject.com/courses/html-and-css?ref=lnav) complete course of HTML/CSS.
 
