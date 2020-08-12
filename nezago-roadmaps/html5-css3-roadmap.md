@@ -22,3 +22,9 @@ ii. Make sure that all projects listed in this course you work on them and submi
 
 #### Course overview
 In this course, you’ll learn HTML5 and CSS3, the foundations of building and styling modern web pages. We’ll also dip into design and UX because it’s difficult to call yourself a full stack developer without having at least a cursory appreciation for the decisions that produce the page itself. If you’re taking this course because you want to build your own websites, that section will be even more helpful.
+
+__Note:__ 
+
+i. If you are going to follow this lesson, from **nezago** training program, you should make sure that any project you will do during this project, get approved by a *Neza Software Support Engineer* (**NSSE**) before continuing.
+
+ii. Make sure that all projects listed in this course you work on them and submit them on **The odin project contribution page**. Once you are done with this course, and all projects are done, you should go to the next lesson.
